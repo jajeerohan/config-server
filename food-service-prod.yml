@@ -5,4 +5,4 @@ info:
   app:
     name: "Food Service"
     description: "This is Food Service. Ready to serve users. This is from config server git version"
-    version: "2.0 Production"
+    version: ".0 Production"
