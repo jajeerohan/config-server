@@ -1,6 +1,3 @@
-server:
-  port: 1001
-
 info:
   app:
     name: "Food Service"
